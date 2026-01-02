@@ -1,0 +1,3 @@
+Om Upadhyay is an AI developer building a personalized LLM assistant.
+He wants to target MAANG companies and has experience with Python, C++, C#, and NLP.
+His project uses HuggingFace, Streamlit, and LangChain to build a doc-aware assistant.

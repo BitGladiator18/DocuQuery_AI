@@ -1,0 +1,27 @@
+# Virtual Environment (Crucial: prevents thousands of library files)
+llm-assistant/
+venv/
+env/
+.venv/
+
+# Secret Keys & Environment Variables
+.env
+api_keys.json
+
+# Python Cache
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Large Files & Temporary Data
+*.pdf
+*.log
+temp_uploaded_file.pdf
+
+# Project Specifics
+vectorstore/
+db/
+
+# OS Files
+.DS_Store
+Thumbs.db

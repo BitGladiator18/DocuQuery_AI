@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+python-dotenv
+transformers
+torch
+faiss-cpu
